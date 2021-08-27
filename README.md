@@ -1,6 +1,6 @@
-# RequirementPriorization
+# RequirementPrioritization
 
-Multi-criteria requirement priorization method based on the opinion of many experts using fuzzy linguistic labels
+Multi-criteria requirement prioritization method based on the opinion of many experts using fuzzy linguistic labels
 
 Authors:
 - Ing. Rottoli, Giovanni Daián [gd.rottoli@gmail.com]
